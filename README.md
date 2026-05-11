@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItzArrav
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Devops
+- 🌱 I’m currently learning Kubernetes 
 
 
 <!---
